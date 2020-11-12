@@ -1,0 +1,22 @@
+PODS:
+  - ecc_util (0.0.1):
+    - Flutter
+  - Flutter (1.0.0)
+
+DEPENDENCIES:
+  - ecc_util (from `.symlinks/plugins/ecc_util/ios`)
+  - Flutter (from `Flutter`)
+
+EXTERNAL SOURCES:
+  ecc_util:
+    :path: ".symlinks/plugins/ecc_util/ios"
+  Flutter:
+    :path: Flutter
+
+SPEC CHECKSUMS:
+  ecc_util: 9f1deb05d9cc6ddedf5114f2a73d8c17d0a8e98f
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+
+PODFILE CHECKSUM: 8e679eca47255a8ca8067c4c67aab20e64cb974d
+
+COCOAPODS: 1.9.3
